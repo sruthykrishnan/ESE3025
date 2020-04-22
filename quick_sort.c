@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : quick_sort.cpp
+// Name        : quick_sort.c
 // Author      : Sruthy Krishnan
 // Version     :
 // Copyright   : Your copyright notice
