@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : stringsort.c
+// Author      : Sruthy Krishnan
+// Version     :
+// Copyright   : Your copyright notice
+// Description : String Sort Algorithm
+//============================================================================
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
