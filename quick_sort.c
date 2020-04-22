@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : quick_sort.cpp
+// Author      : Sruthy Krishnan
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Quick Sort Algorithm 
+//============================================================================
+
 #include <stdlib.h>
 #include <stdio.h>
 int compar(const void *pa, const void *pb)
