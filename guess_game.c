@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : guess_game.c
+// Author      : Sruthy Krishnan
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Number guessing game using pthreads
+//============================================================================
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
