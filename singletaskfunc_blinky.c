@@ -33,7 +33,8 @@ Chip_GPIO_WritePortBit(LPC_GPIO, 3, 26, 1);
 void LEDTask(void *pvParameters)
 {
 uint8_t LEDNumber = (uint8_t *) pvParameters;
-while (1) {
+while (1) 
+{
 Chip_GPIO_WritePortBit(LPC_GPIO, 0, 22, 0);
 vTaskDelay(configTICK_RATE_HZ);
 Chip_GPIO_WritePortBit(LPC_GPIO, 0, 22, 1);
