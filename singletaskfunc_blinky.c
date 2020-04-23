@@ -29,7 +29,7 @@ Chip_GPIO_WritePortBit(LPC_GPIO, 3, 26, 1);
 
 }
 
-/* RED LED toggle thread */
+
 void LEDTask(void *pvParameters)
 {
 uint8_t LEDNumber = (uint8_t *) pvParameters;
