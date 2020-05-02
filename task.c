@@ -1,8 +1,6 @@
 //============================================================================
 // Name        : task.c
 // Author      : Sruthy Krishnan
-// Version     :
-// Copyright   : Your copyright notice
 // Description : freeRTOS blinky project with taskENTER_CRITICAL() & 
 //               taskEXIT_CRITICAL() API functions
 //============================================================================
