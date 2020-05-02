@@ -1,8 +1,6 @@
 //============================================================================
 // Name        : mutex.c
 // Author      : Sruthy Krishnan
-// Version     :
-// Copyright   : Your copyright notice
 // Description : FreeRTOS blinky project with mutex API function
 //============================================================================
 
