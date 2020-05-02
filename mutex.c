@@ -1,7 +1,10 @@
-
-Sruthy Krishnan <sruthykrishnan0903@gmail.com>
-Wed, Apr 29, 1:39 AM (2 days ago)
-to me
+//============================================================================
+// Name        : mutex.c
+// Author      : Sruthy Krishnan
+// Version     :
+// Copyright   : Your copyright notice
+// Description : FreeRTOS blinky project with mutex API function
+//============================================================================
 
 #include "board.h"
 #include "FreeRTOS.h"
